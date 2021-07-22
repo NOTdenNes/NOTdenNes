@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NOTdenNes
+- 👋 Hi, I’m @NOTdenNes because @denNes was already used
 - 🌱 I’m currently in university learning Java
 
 <!---
